@@ -7,7 +7,8 @@ permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 name: Tess
-title: My Base BLog
+title: my homebase
+
 description: >
   This is the base i'll attempt to transform into my own thing.
 url: http://barber.samesies.io
