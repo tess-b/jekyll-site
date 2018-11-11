@@ -12,15 +12,12 @@ title: my homebase
 description: >
   This is the base i'll attempt to transform into my own thing.
 url: http://barber.samesies.io
-twitter_username: thomasvaeth
+twitter_username: 
 default_img: /assets/images/seo.jpg
 social:
-  - name: twitter
-    url: https://twitter.com/thomasvaeth
+ 
   - name: instagram
     url: https://www.instagram.com/thomas.vaeth/
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
   - name: github
     url: https://github.com/samesies
   - name: codepen
