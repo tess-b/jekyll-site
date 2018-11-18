@@ -7,7 +7,7 @@ permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 name: Tess
-title: my homebase
+title: little chestnut
 
 description: >
   This is the base i'll attempt to transform into my own thing.
@@ -37,7 +37,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 # Author settings
 author:
   - name: Tess
-    bio: tess is learning to fail better
+    bio: earning to fail better
     url: 
 
 # Build settings
